@@ -1,0 +1,2 @@
+attradd hal_audio_default mlstrustedsubject
+allow hal_audio_default system_file file { read execute write ioctl open getattr map }

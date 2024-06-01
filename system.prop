@@ -1,0 +1,5 @@
+ro.audio.spatializer_enabled=true
+ro.vendor.audio.feature.spatial=7
+ro.vendor.audio.multichannel.5point1.headset=true
+ro.vendor.audio.multichannel.5point1=true
+ro.vendor.audio.multi.channel=true
